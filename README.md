@@ -1,6 +1,6 @@
  👋 Hi, I’m Teiffran 👋
  
- Here I will publish my attempts to learn different programming languages 
+✌️
 
 <!---
 Teiffran/Teiffran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
